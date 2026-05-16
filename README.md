@@ -69,11 +69,6 @@ DATAFORSEO_PASSWORD=your_password
 
 ---
 
-## Screenshots
-
-Add screenshots here later.
-
----
 
 ## Author
 
